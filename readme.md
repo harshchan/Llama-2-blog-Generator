@@ -1,4 +1,4 @@
-# Blog Generation App
+# Llama 2 Blog Generator
 
 ## Introduction
 This Blog Generation App is an innovative tool for bloggers and content creators, leveraging the power of AI to generate engaging blog posts. Built with Python, LangChain, and Streamlit, this app provides an interactive and user-friendly interface. It incorporates the Llama 2 language model, locally hosted, to ensure high-quality text generation.
